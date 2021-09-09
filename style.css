@@ -1,0 +1,32 @@
+* {
+  font-family: "Nanum Gothic Coding";
+  background-color: rgb(228, 203, 211);
+}
+
+h1 h2 {
+  font-weight: bold;
+}
+
+p {
+  line-height: 23px;
+}
+
+a:link {
+  color: rgb(108, 108, 255);
+}
+a:visited {
+  color: rgba(83, 10, 83, 0.404);
+}
+
+.tab {
+  margin-left: 2.5em;
+  margin-bottom: 2.5em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2.5em;
+  width: 75%;
+}}
