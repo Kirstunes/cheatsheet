@@ -1,2 +1,0 @@
-# cheatsheet
-Created with CodeSandbox
